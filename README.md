@@ -14,12 +14,14 @@ Classify whether a detected face is wearing a mask or not.
 - Google Colab
 
 ---
+🔗 **Colab Link**: [Click Here]([https://colab.research.google.com/drive/18ctAqqI1he7QQ1SrzELUAf7bDscrFr-x?usp=sharing](https://colab.research.google.com/drive/1zNJXN6SuWp5Ca2Ca0-D9IYQE1OJgrKOS?usp=sharing))
+---
 
 ## 📂 Dataset:
 We use a labeled dataset with two folders:
 - `with_mask`
 - `without_mask`
--🔗 **Link**: [Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data)
+🔗 **Link**: [Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data)
 ---
 
 ## ⚙️ Features:
